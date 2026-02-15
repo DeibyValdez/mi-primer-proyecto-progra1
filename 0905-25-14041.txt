@@ -1,0 +1,11 @@
+i. ¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub?
+Considero que es bastante intrincado y que se debe de estudiar bastante para evitar demasiados errores.
+
+
+ii. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
+conflicto? ¿Cómo lo resolviste?
+No trabaje en pareja pero realice una segunda rama y se me dificulto realizar el readme y lo resolví con prueba y error.
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Se puede trabajar de manera ordenada con los proyectos y permite llevar un control del historial de cambios de código que hayan hecho otras personas del equipo, creando ramas donde incluyen sus aportes para el proyecto. Por lo cual me parece importante aprender esto mucho más a profundidad.
